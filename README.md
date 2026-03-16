@@ -1,5 +1,4 @@
 # MP3-Tag-Reader-and-Editor
-# MP3-Tag-Reader-and-Editor
 
 A C-based command-line application for viewing and editing MP3 ID3v2 metadata tags.  
 This project demonstrates binary file parsing, dynamic memory management, and low-level file handling.
